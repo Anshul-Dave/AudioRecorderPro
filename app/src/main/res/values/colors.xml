@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Studio Slate & Cobalt Blue : LIGHT -->
+    <color name="app_background">#F9F8F6</color>
+    <color name="app_surface">#FFFFFF</color>
+    <color name="app_primary">#2447E0</color>
+    <color name="app_on_primary">#FFFFFF</color>
+    <color name="app_record">#DC2626</color>
+    <color name="app_on_record">#FFFFFF</color>
+    <color name="app_text">#14171F</color>
+    <color name="app_text_secondary">#475569</color>
+    <color name="app_border">#E2E8F0</color>
+    <color name="app_link">#2447E0</color>
+    <color name="app_icon_tile">#E7EDFF</color>
+
+    <!-- Status badges (light) -->
+    <color name="badge_scheduled_text">#1D4ED8</color>
+    <color name="badge_scheduled_bg">#DBEAFE</color>
+    <color name="badge_recording_text">#B91C1C</color>
+    <color name="badge_recording_bg">#FEE2E2</color>
+    <color name="badge_completed_text">#15803D</color>
+    <color name="badge_completed_bg">#DCFCE7</color>
+    <color name="badge_failed_text">#B45309</color>
+    <color name="badge_failed_bg">#FEF3C7</color>
+    <color name="badge_cancelled_text">#475569</color>
+    <color name="badge_cancelled_bg">#F1F5F9</color>
+</resources>
